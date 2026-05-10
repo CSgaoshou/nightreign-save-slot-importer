@@ -8,7 +8,7 @@ This project keeps only the save-slot import workflow: choose a source save on t
 
 The source code for this project is based on:
 
-https://github.com/CSgaoshou/Elden-Ring-Nightreign-Save-Editor
+https://github.com/alfizari/Elden-Ring-Nightreign-Save-Editor
 
 This repository is a simplified and focused version that removes the original editor features and keeps only the character-slot import functionality.
 
