@@ -10,7 +10,7 @@ This project is based on source code from:
 
 https://github.com/CSgaoshou/Elden-Ring-Nightreign-Save-Editor
 
-That repository was originally created as a modified version of the Nightreign save editor. The related change has since been adopted in **V4.6.4**, so this repository now exists as a simplified standalone tool focused only on save-slot importing.
+This repository is a simplified standalone tool focused only on save-slot importing.
 
 ## Features
 
