@@ -10,7 +10,7 @@ The tool focuses on one workflow only: load a source save, load a target save, c
 
 This project is based on source code from:
 
-https://github.com/CSgaoshou/Elden-Ring-Nightreign-Save-Editor
+https://github.com/alfizari/Elden-Ring-Nightreign-Save-Editor  (Based on V4.6.6)
 
 This repository is a simplified standalone tool focused only on save-slot importing.
 
@@ -76,7 +76,7 @@ Always keep an untouched backup of your original save files. Editing save data c
 
 本项目基于以下仓库的源码精简而来：
 
-https://github.com/CSgaoshou/Elden-Ring-Nightreign-Save-Editor
+https://github.com/alfizari/Elden-Ring-Nightreign-Save-Editor  (基于V4.6.6)
 
 当前仓库是一个独立的精简版工具，只专注于小存档导入功能。
 
